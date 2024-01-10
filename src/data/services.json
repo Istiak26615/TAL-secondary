@@ -1,0 +1,56 @@
+
+[
+    { "id":"sr1",
+        "icon": "icon fa-solid fa-laptop-code",
+        "Title": "Software Development",
+        "quantity": 2008,
+        "description": ["Software development services we provide consist of designing, creating, testing, and deploying software applications. These services can be provided by individual or corporate requirement, and can range from simple applications to complex enterprise systems. When considering our software development services, there are several factors we ensure, including:","1. Expertise: Our developers with experience in different programming languages and technologies needed for any project, and proven track record of delivering quality software.","2. Development methodology: We practice reliable and achievable development methodology that our developers use, such as Agile or Waterfall, and ensure that it aligns with any project requirements.","3. Communication and collaboration: Good communication and collaboration are essential for successful software development. We ensure clear communication channels and delegate responsive feedback.","4. Quality assurance: With robust testing and quality assurance process in place, we minimize errors and bugs in the final product.","5. Scalability: Our horizontal and vertical scalability strength to elevate the project as needed put us in a strong position when the scope of the project expands in the future."],
+        "image": "https://www.techanalyticaltd.com/img/services/Coding.webp"
+        
+    },
+    { "id":"sr2",
+        "icon": "icon fa-solid fa-globe",
+        "Title": "Web Development",
+        "quantity": 2008,
+        "description": ["Our Web development services covers designing and building websites, web applications, and other web-based solutions. We can include everything from developing the website's layout and design to creating the code and functionality that runs behind the scenes.","Through web development services, we ensure following factors:","1. Expertise: Our developers have proficiency in the programming languages and technologies needed for your project, such as HTML, CSS, JavaScript, and various web frameworks.","2. Customization: We consider the degree of customization and functionality required for your website or web application, and ensure that the developers have understood creating similar solutions.","3. Mobile responsiveness: While designing your website or web application to be mobile- responsive, as a growing number of users access the web from mobile devices, we guarantee seamless mobile responsiveness.","4. User experience: We focus on creating an intuitive and user-friendly interface that makes it easy for users to navigate and interact with the website or web application.","5. SEO optimization: Ensuring the incorporation of SEO optimization is best practices, and to help your website or web application rank higher in search engine results we implement the latest most SEO technologies in web based solutions."],
+        "image": "https://www.techanalyticaltd.com/img/services/Web.webp"
+        
+    },
+    { 
+        "id":"sr3",
+        "icon": "icon fa-solid fa-gears",
+        "Title": "IT System Integration",
+        "quantity": 2008,
+        "description": ["Our IT system integration covers the scopes of connecting various software and hardware systems to work together as a unified system. This involves integrating multiple applications, databases, and servers into a single, seamless system. Our goal of system integration is to improve business efficiency, increase productivity, and reduce costs by streamlining operations. In our IT system integration, we maintain international standards including:","1. Compatibility: We make sure that the systems you wish to integrate are compatible and can work together. This may require modifications to existing systems or the implementation of new software and hardware.","2. Data transfer: We determine the data that needs to be shared between systems and how it will be transferred. This may involve developing custom interfaces or middleware to facilitate communication between systems.","3. Testing: We conduct extensive testing to ensure that all systems are functioning correctly and that data is being transferred accurately.","4. Security: We ensure that the integrated system is secure and that sensitive data is protected.","5. Ongoing maintenance and support: Our ongoing maintenance and support is always there ensure that the integrated system continues to function correctly and meets changing business needs.","Also, our IT system integration can support variety of existing applications, such as enterprise resource planning (ERP), customer relationship management (CRM), and supply chain management. By integrating systems, your businesses can streamline the operations and improve the efficiency, ultimately leading toward better business outcomes."],
+        "image": "https://www.techanalyticaltd.com/img/services/itintegration.webp"
+        
+    },
+    {
+        "id":"sr4",
+        "icon": "icon fa-solid fa-user-gear",
+        "Title": "IT Support & Services",
+        "quantity": 2008,
+        "description": ["Out total solution plan includes IT support and services comprising technical assistance and maintenance to your businesses and organizations for the technology infrastructure, software, and hardware. This includes help desk support, hardware and software maintenance, network monitoring, and cybersecurity services.","1. Help desk support: We provide a responsive help desk support that can address technical issues promptly and efficiently.","2. Service level agreements (SLAs): Consider the SLAs offered by us outlines the services provided, response times, and expected outcomes precisely.","3. Availability: Where needed and as agreed under SLA, we ensure IT support during business hours or 24/7.","4. Responsiveness: Our IT support provider responds to issues promptly and provides a timely resolution to technical problems.","5. Communication: We communicates clearly and effectively, both in technical terms and in language that is easily understood by non-technical users and English speakers."],
+        "image": "https://www.techanalyticaltd.com/img/services/It%20Support.webp"
+    
+    },
+    {
+        "id":"sr5",
+        "icon": "icon fa-solid fa-brain",
+        "Title": "AI Driven Development",
+        "quantity": 2008,
+        "description": ["We indulge in AI-driven development by practicing artificial intelligence (AI) and machine learning (ML) technologies to enhance and automate various aspects of the software development lifecycle. Our approach is designed to speed up the software development process, reduce errors and increase efficiency. We perform in below AI segments:","1. Code generation and optimization: AI tools that can be used to analyze code and generate optimized code that is more efficient and effective.","2. Testing and quality assurance: AI-driven testing tools that can analyze and detect errors, performance issues, and other bugs more quickly and accurately.","3. Predictive analytics: Machine learning algorithms (decision tree, random forest, naïve bias, q-learning, chunk prediction, LSTM) that can be used to predict trends, identify potential issues and optimize various aspects of the development process, such as resource allocation and business planning.","4. Natural language processing (NLP): NLP algorithms (developed tool kit for NLTK Python library) that can be used to analyze user feedback, identify key trends and issues, and optimize the development process.","5. Intelligent assistants: AI-driven assistants that can help developers with tasks such as debugging, code reviews, and even automated code generation, also guide users to avail AI driven solutions."],
+        "image": "https://www.techanalyticaltd.com/img/services/Ai.webp"
+        
+    },
+    {
+        "id":"sr6",
+        "icon": "icon fa-solid fa-bullhorn",
+        "Title": "Digital Marketing",
+        "quantity": 2008,
+        "description": ["Our fine understanding and experience in Digital marketing technologies, such as the internet, social media, search engines, mobile devices, and other digital channels to promote products, services, and brands will place your business at a top order on the world wide web. Our data-driven approach leverages technology to reach and engage with audiences in a measurable and targeted way.","1. Search engine optimization (SEO): Optimizing your website's content and structure to rank higher in search engine results pages (SERPs).","2. Pay-per-click advertising (PPC): Displaying your ads on search engines, social media platforms, and other websites to drive traffic to a website.","3. Social media marketing: Using social media platforms to engage with customers and promote your products or services.","4. Content marketing: Creating and sharing your content to engage with customers and build brand awareness.","5. Email marketing: Email marketing to communicate with your customers and promote your products or services.","6. Mobile marketing: Targeting users on mobile devices with mobile-optimized content, ads, and apps and delivering your ads to the right set of customers and users.","When choosing an e-commerce solution, it's important to consider factors such as ease of use, scalability, pricing, features, and integrations with other tools and services. Visit our cloud based e-platform for reference www.mindschoolbd.com."],
+        "image": "https://www.techanalyticaltd.com/img/services/Digital%20Marketing.webp"
+        
+    }
+    
+]
